@@ -27,6 +27,7 @@ h1{
 .color-div{
     background: #feab5a;
     max-width: 500px;
+    display: none; /*Para que se oculte el div solo*/
 }
 
 .operacionesMat input{
@@ -45,7 +46,7 @@ input:focus {
 
 .ejer{
     border:1px solid #000000;
-    background: rgba(240, 255, 105, 0.47);
+    background: rgb(255, 234, 180);
 }
 
 ul {
@@ -59,7 +60,7 @@ ul {
 
 li a {
     display: block;
-    color: #000;
+    color: #3193f4;
     padding: 8px 16px;
     text-decoration: none;
     font-family: 'Inknut Antiqua', serif;
